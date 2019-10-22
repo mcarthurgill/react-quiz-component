@@ -133,6 +133,7 @@
 
 .react-quiz-container .tag-container {
   margin-bottom: 20px;
+  display: none;
 }
 
 .react-quiz-container .selection-tag,
